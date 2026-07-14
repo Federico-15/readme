@@ -450,13 +450,11 @@ Mockito와 JUnit으로 단위 테스트를 작성하고 JaCoCo로 Instruction �
 
 ## 👥 팀원 소개
 
-| 이름 | 역할 | 담당 업무 |
-| --- | --- | --- |
-| **류승환** | PM / AIOps & Backend | SRE Agent 개발, SQS 비동기 처리, 내부 LLM 구축 |
-| **이승준** | PL / Observability | 하이브리드 클라우드 설계, 금융 원장·배치 시스템, Observability 구축 |
-| **이동욱** | AIOps & Test | AI 예측 모델, Predictive Autoscaling, MCP 기반 AIOps 백엔드, 백엔드 품질·배포 안정화 |
-| **사재현** | Monitoring & On-prem | 관리자 대시보드 API, DB 이중화·HA, 온프레미스 자원·로그 모니터링 |
-| **양규리** | CI/CD & Cloud | GitOps CI/CD 파이프라인, AWS 연동 인프라, 사용자 서비스 개발 |
+| <img src="https://github.com/Federico-15.png" width="90"/> | <img src="https://github.com/HiLeeS.png" width="90"/> | <img src="https://github.com/cuterrabbit.png" width="90"/> | <img src="https://github.com/Zaixian5.png" width="90"/> | <img src="https://github.com/ygreee0320.png" width="90"/> |
+| :---: | :---: | :---: | :---: | :---: |
+| **류승환** | **이승준** | **이동욱** | **사재헌** | **양규리** |
+| [@Federico-15](https://github.com/Federico-15) | [@HiLeeS](https://github.com/HiLeeS) | [@cuterrabbit](https://github.com/cuterrabbit) | [@Zaixian5](https://github.com/Zaixian5) | [@ygreee0320](https://github.com/ygreee0320) |
+| **PM** (AIOps & BE) | **PL** (Observability) | AIOps & Test | 모니터링 & On-prem | CI/CD & Cloud |
 
 ---
 
@@ -490,29 +488,4 @@ Mockito와 JUnit으로 단위 테스트를 작성하고 JaCoCo로 Instruction �
 | Infrastructure | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=flat-square&logo=vmware&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![MetalLB](https://img.shields.io/badge/MetalLB-0B7FAB?style=flat-square) ![NGINX Ingress](https://img.shields.io/badge/NGINX%20Ingress-009639?style=flat-square&logo=nginx&logoColor=white) |
 | DevOps | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white) |
 | Observability | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=flat-square&logo=fluentbit&logoColor=white) ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=white) ![Hubble](https://img.shields.io/badge/Hubble-F8C517?style=flat-square) |
-
-
-
-alertmanager
-https://github.com/user-attachments/assets/bf7ef90f-8918-43c0-984d-c831cd9a5102
-
-cloudwatch
-https://github.com/user-attachments/assets/b41945bf-04b9-4971-9ee6-263a6d54e093
-
-on-prem k8s
-https://github.com/user-attachments/assets/857108f3-8ed4-4993-b7f4-53bdc48fb926
-
-pfsense
-https://github.com/user-attachments/assets/0c1cf486-4297-4ad0-a8e5-e04362c968b5
-
-observabiliy
-https://github.com/user-attachments/assets/76d5982a-104d-4e62-a70e-8afd41ab1696
-
-aiops
-https://github.com/user-attachments/assets/aec04230-9acb-4441-8e24-22f434c584fc
-
-
-
-aiops2
-https://github.com/user-attachments/assets/92df2fc6-2c2b-479b-9663-ccb6d69fe8b3
 
